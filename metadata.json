@@ -1,0 +1,6 @@
+{
+  "name": "Nival — Cyberspace Identity",
+  "description": "An interactive cyberspace identity landing page with real-time cursor-following spotlight reveal, adaptive materials, and avatar gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
